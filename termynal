@@ -54,7 +54,7 @@ body {
 }
 
 [data-ty="input"]:before {
-    content: 'Login@Discord#';
+    content: 'root@localhost#';
 }
 
 [data-ty="login"]:before {
@@ -63,7 +63,7 @@ body {
 }
 
 [data-ty="login"]:before {
-    content: 'Discord login: ';
+    content: 'localhost login: ';
 }
 
 [data-ty="password"]:before {
@@ -72,7 +72,7 @@ body {
 }
 
 [data-ty="password"]:before {
-    content: 'Discord password: ';
+    content: 'root password: ';
 }
 
 [data-ty][data-ty-prompt]:before {
